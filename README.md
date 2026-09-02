@@ -47,11 +47,11 @@ I work at the intersection of technology and design — from building responsive
 
 ### 🎨 Design
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva&theme=dark" />
 
 ### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel&theme=dark" />
 
 </div>
 
