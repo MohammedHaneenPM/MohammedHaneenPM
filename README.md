@@ -38,7 +38,7 @@ I work at the intersection of technology and design — from building responsive
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,mysql,git,github,vscode,cursor&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,mysql,git,github,vscode&theme=dark" />
 
 ### 🛍️ E-Commerce & Platforms
 
@@ -47,11 +47,11 @@ I work at the intersection of technology and design — from building responsive
 
 ### 🎨 Design
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
 
 ### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 
 </div>
 
