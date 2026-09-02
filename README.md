@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-08-26 154558" src="https://github.com/user-attachments/assets/6bb84df0-8a6d-4db1-ab74-2dca5ed6da8b" /><div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,2563eb&height=260&section=header&text=Mohammed%20Haneen%20P%20M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Shopify%20%7C%20UI%2FUX%20%7C%20Data%20Analytics&descAlignY=55&descSize=21" width="100%"/>
 
@@ -48,10 +48,13 @@ I work at the intersection of technology and design — from building responsive
 ### 🎨 Design
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+<img src="/canva-icon.svg" width="48" height="48" alt="Canva">
 
 ### 📊 Data & Analytics
 
 <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<img src="/power-bi-icon.svg" width="48" height="48" alt="Power BI">
+<img src="/microsoft-excel-icon.svg" width="48" height="48" alt="Excel">
 
 </div>
 
@@ -61,20 +64,12 @@ I work at the intersection of technology and design — from building responsive
 
 <div align="center">
 
-<a href="https://github.com/MohammedHaneenPM/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHaneenPM&repo=Portfolio&theme=tokyonight&hide_border=true" />
+<a href="https://lil-whip.vercel.app">
+  <img src="/lilwhip.png">
 </a>
 
-<a href="https://github.com/MohammedHaneenPM/Appolo-Sports-Demo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHaneenPM&repo=Appolo-Sports-Demo&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MohammedHaneenPM/Bosco_Transportation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHaneenPM&repo=Bosco_Transportation&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/MohammedHaneenPM/Power_BI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedHaneenPM&repo=Power_BI&theme=tokyonight&hide_border=true" />
+<a href="https://bosco-transportation.vercel.app">
+  <img src="/bosco.png>
 </a>
 
 </div>
@@ -112,7 +107,7 @@ I work at the intersection of technology and design — from building responsive
 <a href="https://github.com/MohammedHaneenPM">
   <img src="https://img.shields.io/badge/GitHub-MohammedHaneenPM-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<br>
+
 <a href="https://www.linkedin.com/mohammedhaneenpm">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -120,7 +115,7 @@ I work at the intersection of technology and design — from building responsive
 <a href="https://www.instagram.com/itshaneeeeen">
   <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<br>
+
 <a href="mailto:connect.haneen@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
