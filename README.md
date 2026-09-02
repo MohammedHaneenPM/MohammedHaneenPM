@@ -112,15 +112,15 @@ I work at the intersection of technology and design — from building responsive
   <img src="https://img.shields.io/badge/GitHub-MohammedHaneenPM-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/mohammedhaneenpm">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/">
+<a href="https://www.instagram.com/itshaneeeeen">
   <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:mohammedhaneen.pm2003@gmail.com">
+<a href="mailto:connect.haneen@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
