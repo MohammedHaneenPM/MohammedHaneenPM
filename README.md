@@ -115,17 +115,7 @@ I work at the intersection of technology and design — from building responsive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedHaneenPM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedHaneenPM&layout=donut&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=MohammedHaneenPM&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedHaneenPM&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
