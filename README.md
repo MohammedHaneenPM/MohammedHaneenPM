@@ -43,7 +43,7 @@ I work at the intersection of technology and design — from building responsive
 ### 🛍️ E-Commerce & Platforms
 
 <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-<img src="/shopify-icon.svg">
+<img src="/shopify-icon.svg" width="48" height="48" alt="Shopify">
 
 ### 🎨 Design
 
