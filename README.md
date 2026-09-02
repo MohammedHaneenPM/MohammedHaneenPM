@@ -38,7 +38,7 @@ I work at the intersection of technology and design — from building responsive
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,php,mysql,git,github,vscode,cursor&theme=dark" />
 
 ### 🛍️ E-Commerce & Platforms
 
